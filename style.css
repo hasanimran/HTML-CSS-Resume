@@ -1,1 +1,19 @@
-/* Your CSS styles go here */
+#content{
+	background-color:white;
+	float:left;
+	width:700px;
+	height:1800px;
+}
+#body{
+	background-color:white;
+}
+#top-content{
+	position:absolute;
+	top:110px;
+	left:800px;
+	color:black;
+}
+.img{
+	width:304px;
+	height:228px;
+}
