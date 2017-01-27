@@ -1,19 +1,79 @@
 #content{
-	background-color:white;
+	background-color:#9999ff;
 	float:left;
-	width:700px;
-	height:1800px;
+	width:720px;
+	height:2400px;
+
+}
+#menu{
+	background-color:white;
+	width:200px;
+	height:2400px;
+	float:left;
+	background: #060642;
+}
+#full-background{
+	background: #060642;
 }
 #body{
 	background-color:white;
 }
-#top-content{
+#img-content{
 	position:absolute;
-	top:110px;
-	left:800px;
-	color:black;
+	top:210px;
+	left:950px;
+	color:white;
 }
 .img{
 	width:304px;
 	height:228px;
+}
+#top-write{
+	padding-left:0px;
+	margin-top:10px;
+	background-color: #060642;
+	height: 170px;
+	color: black;
+
+}
+#resumeof {
+	font-size:36pt;
+	
+	text-align: center;
+	color:white;
+
+}
+#name{
+	font-size:36pt;
+	color:white;
+	text-align: center;
+	
+	margin-top:3px;
+}
+#object{
+	font-size:25pt;
+}
+#education{
+	font-size:25pt;
+}
+#table-edu{
+	width: 70%;
+	padding-left: 40px;
+}
+#prof-exp{
+	font-size:15pt;
+}
+#prof-ul{
+	list-style-type:none;
+	padding-left:270px;
+}
+#personal-info{
+	list-style-type:square;
+	padding-left:300px;
+}
+#interest-ol{
+	padding-left:300px;
+}
+a:hover {
+    background-color: white;
 }
